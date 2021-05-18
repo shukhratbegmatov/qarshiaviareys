@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="58" viewBox="0 0 58 58">
+  <g id="medical" transform="translate(-507 -997)">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(507 997)" fill="none" stroke="#32d192" stroke-width="1">
+      <circle cx="29" cy="29" r="29" stroke="none"/>
+      <circle cx="29" cy="29" r="28.5" fill="none"/>
+    </g>
+    <g id="first-aid-kit" transform="translate(525 990.499)">
+      <g id="Group_7" data-name="Group 7" transform="translate(6.229 32.284)">
+        <g id="Group_6" data-name="Group 6" transform="translate(0 0)">
+          <path id="Path_484" data-name="Path 484" d="M122.462,140.646h-1.777v-1.777a.649.649,0,0,0-.645-.653h-2.565a.649.649,0,0,0-.649.649v1.777h-1.773a.649.649,0,0,0-.653.645v2.566a.649.649,0,0,0,.649.649h1.777v1.773a.649.649,0,0,0,.645.653h2.561a.649.649,0,0,0,.649-.649h0V144.5h1.777a.649.649,0,0,0,.653-.645V141.3A.649.649,0,0,0,122.462,140.646Zm-.222,2.984H120.25a.436.436,0,0,0-.436.436v1.991H117.7v-1.991a.436.436,0,0,0-.436-.436h-1.991v-2.113h1.991a.436.436,0,0,0,.436-.436v-1.995h2.112v1.991a.436.436,0,0,0,.436.436h1.995Z" transform="translate(-114.4 -138.216)" fill="#32d192" stroke="#32d192" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g id="Group_9" data-name="Group 9" transform="translate(0 26.184)">
+        <g id="Group_8" data-name="Group 8" transform="translate(0 0)">
+          <path id="Path_485" data-name="Path 485" d="M18.163,29.026H14.574V27.492a1.268,1.268,0,0,0-1.226-1.308q-.053,0-.107,0H7.927a1.268,1.268,0,0,0-1.332,1.2q0,.053,0,.107v1.524H3.005A2.825,2.825,0,0,0,0,32.022V41.5A2.825,2.825,0,0,0,3.005,44.5H18.163A2.825,2.825,0,0,0,21.169,41.5V32.031A2.823,2.823,0,0,0,18.163,29.026Zm-10.7-1.533a.408.408,0,0,1,.466-.466h5.31c.466,0,.466.335.466.466v1.524H7.466ZM20.3,41.5a1.957,1.957,0,0,1-2.134,2.134H3.005A1.959,1.959,0,0,1,.871,41.5V32.031A1.957,1.957,0,0,1,3.005,29.9H18.163A1.959,1.959,0,0,1,20.3,32.031Z" transform="translate(0 -26.184)" fill="#32d192" stroke="#32d192" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
